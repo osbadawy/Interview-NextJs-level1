@@ -1,40 +1,4 @@
 
-# Next.js Intern Interview Exercise
-
-This repository contains a **basic Next.js application** used for a technical interview for frontend or full-stack interns.
-
-The goal of this exercise is to evaluate the candidate’s ability to:
-
-• Understand a modern Next.js project structure
-• Work with React components
-• Implement simple UI features
-• Fetch and display data
-• Write clean and maintainable code
-
----
-
-# Project Setup
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-The application will run at:
-
-```
-http://localhost:3000
-```
-
----
-
 # Level 1 — Understanding the Repository
 
 ### Objective
